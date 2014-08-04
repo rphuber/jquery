@@ -1,0 +1,23 @@
+{
+  "name": "jQUery",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rphuber/jquery.git"
+  },
+  "author": "",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/rphuber/jquery/issues"
+  },
+  "homepage": "https://github.com/rphuber/jquery"
+}

@@ -7,8 +7,4 @@ $(document).ready(function(){
 		alert (imageId);
 		$('.' + imageId).toggleClass('show');
 	});
-
-
-
 });
-
